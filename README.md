@@ -1,7 +1,7 @@
 ## Hello! I Am John Kevin.
 
 
-- 🔭 Hoje trabalho como full-stack 
+- 🔭 Hoje trabalho como dev full-stack 
 - 🌱 Estudando React-Native
 - 😄 Pronouns: ele/dele
 
