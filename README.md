@@ -1,9 +1,9 @@
-## Hello! I Am John Kevin.
+## Hello, Welcome to my World. 🇧🇷
 
 
-- 🔭 Hoje trabalho como dev full-stack 
-- 🌱 Estudando React-Native
-- 😄 Pronouns: ele/dele
+- 🔭 dev full-stack 
+- 🌱 Estudando React-Native 
+
 
 <div align="center">
   <a href="https://github.com/kev1nnnnnnn">
