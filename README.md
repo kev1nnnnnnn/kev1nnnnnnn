@@ -1,8 +1,7 @@
 ## Hello, Welcome to my World. 🇧🇷
 
 
-- 🔭 dev full-stack 
-- 🌱 Estudando React-Native 
+- 🔭 Web developer full-stack 
 
 
 <div align="center">
