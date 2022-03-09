@@ -1,4 +1,5 @@
 ## My Status 🥇 🇧🇷
+10 e faixa 👽
 
 
 - 🔭 Web developer full-stack 
