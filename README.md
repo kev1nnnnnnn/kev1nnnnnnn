@@ -1,8 +1,7 @@
-## My Status 🥇 🇧🇷
-## 10 e faixa 👽
+## My Bio 🥇 🇧🇷
 
 
-- 🔭 Web developer full-stack 
+- 🔭 Developer - Web / Mobile 
 
 
 <div align="center">
