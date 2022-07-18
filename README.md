@@ -1,4 +1,4 @@
-## My Bio 🥇 --- Manaus-AM
+## My Bio 🥇 
 
 - 🔭 Developer - Web / Mobile 
 
